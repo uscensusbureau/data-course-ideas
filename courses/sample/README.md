@@ -5,6 +5,10 @@
 
 This sample course will teach you how to use the Census Bureau's American FactFinder tool to gather income data for your state. You'll be able to compare the counties and cities in your state to see which ones have the highest median income.
 
+
+---
+
+
 ## Video 1: Accessing American FactFinder
 
 ### Script
@@ -22,3 +26,8 @@ In this video, we'll do a screen capture with a voiceover to show people how to 
 ### Additional Resources
 
 You can include this screenshot as a thumbnail for the video.
+
+![Screenshot of finding American FactFinder](resources/finding-aff.png)
+
+
+---
