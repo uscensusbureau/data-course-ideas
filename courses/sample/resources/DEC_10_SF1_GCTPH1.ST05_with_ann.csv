@@ -1,0 +1,27 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HD01,HD02,SUBHD0301,SUBHD0302,SUBHD0303,SUBHD0401,SUBHD0402
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic area,Geographic area,Population,Housing units,Area in square miles - Total area,Area in square miles - Water area,Area in square miles - Land area,Density per square mile of land area - Population,Density per square mile of land area - Housing units
+0400000US24,24,Maryland,0400000US24,24,Maryland,Maryland,5773552(r42264),2378814(r18611),12405.93,2698.69,9707.24,594.8,245.1
+0400000US24,24,Maryland,0500000US24001,24001,Maryland - Allegany County,Allegany County,75087,33311,429.93,5.77,424.16,177.0,78.5
+0400000US24,24,Maryland,0500000US24003,24003,Maryland - Anne Arundel County,Anne Arundel County,537656,212562,587.80,172.90,414.90,1295.9,512.3
+0400000US24,24,Maryland,0500000US24005,24005,Maryland - Baltimore County,Baltimore County,805029(r42279),335622(r18612),681.76,83.45,598.30,1345.5,561.0
+0400000US24,24,Maryland,0500000US24009,24009,Maryland - Calvert County,Calvert County,88737,33780,345.07,131.92,213.15,416.3,158.5
+0400000US24,24,Maryland,0500000US24011,24011,Maryland - Caroline County,Caroline County,33066,13482,325.90,6.48,319.42,103.5,42.2
+0400000US24,24,Maryland,0500000US24013,24013,Maryland - Carroll County,Carroll County,167134,62406,452.69,5.09,447.59,373.4,139.4
+0400000US24,24,Maryland,0500000US24015,24015,Maryland - Cecil County,Cecil County,101108,41103,417.84,71.56,346.27,292.0,118.7
+0400000US24,24,Maryland,0500000US24017,24017,Maryland - Charles County,Charles County,146551,54963,642.97,185.22,457.75,320.2,120.1
+0400000US24,24,Maryland,0500000US24019,24019,Maryland - Dorchester County,Dorchester County,32618,16554,983.00,442.24,540.77,60.3,30.6
+0400000US24,24,Maryland,0500000US24021,24021,Maryland - Frederick County,Frederick County,233385,90136,667.38,7.16,660.22,353.5,136.5
+0400000US24,24,Maryland,0500000US24023,24023,Maryland - Garrett County,Garrett County,30097,18854,655.74,8.63,647.10,46.5,29.1
+0400000US24,24,Maryland,0500000US24025,24025,Maryland - Harford County,Harford County,244826,95554,526.64,89.55,437.09,560.1,218.6
+0400000US24,24,Maryland,0500000US24027,24027,Maryland - Howard County,Howard County,287085,109282,253.39,2.65,250.74,1144.9,435.8
+0400000US24,24,Maryland,0500000US24029,24029,Maryland - Kent County,Kent County,20197,10549,413.45,136.42,277.03,72.9,38.1
+0400000US24,24,Maryland,0500000US24031,24031,Maryland - Montgomery County,Montgomery County,971777,375905,506.95,15.69,491.25,1978.2,765.2
+0400000US24,24,Maryland,0500000US24033,24033,Maryland - Prince George's County,Prince George's County,863420,328182,498.84,16.15,482.69,1788.8,679.9
+0400000US24,24,Maryland,0500000US24035,24035,Maryland - Queen Anne's County,Queen Anne's County,47798,20140,510.69,138.78,371.91,128.5,54.2
+0400000US24,24,Maryland,0500000US24037,24037,Maryland - St. Mary's County,St. Mary's County,105151,41282,764.25,407.07,357.18,294.4,115.6
+0400000US24,24,Maryland,0500000US24039,24039,Maryland - Somerset County,Somerset County,26470,11130,610.35,290.63,319.72,82.8,34.8
+0400000US24,24,Maryland,0500000US24041,24041,Maryland - Talbot County,Talbot County,37782,19577,476.81,208.27,268.54,140.7,72.9
+0400000US24,24,Maryland,0500000US24043,24043,Maryland - Washington County,Washington County,147430,60814,467.34,9.56,457.78,322.1,132.8
+0400000US24,24,Maryland,0500000US24045,24045,Maryland - Wicomico County,Wicomico County,98733,41192,400.24,25.79,374.44,263.7,110.0
+0400000US24,24,Maryland,0500000US24047,24047,Maryland - Worcester County,Worcester County,51454,55749,694.86,226.58,468.28,109.9,119.1
+0400000US24,24,Maryland,0500000US24510,24510,Maryland - Baltimore city,Baltimore city,620961(r42352),296685(r18689),92.05,11.11,80.94,7671.5,3665.3

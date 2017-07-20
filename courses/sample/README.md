@@ -3,7 +3,7 @@
 
 ## Summary
 
-This sample course will teach you how to use the Census Bureau's American FactFinder tool to gather population data for your state. You'll be able to see how many people live in your state and which counties and cities are the biggest.
+This sample course will teach you how to use the Census Bureau's American FactFinder tool to gather population data for your state. You'll be able to see how many people live in your state and which counties are the biggest.
 
 
 ---
@@ -42,7 +42,7 @@ From here, type your state name into the "Community Facts" search bar. We'll cho
 
 Hit Go.
 
-You'll see the population of your state! In this case, Maryland's population is around 6 million.
+You'll see the population of your state! In this case, Maryland's population is just under 5.8 million.
 
 ### Visuals
 
@@ -51,3 +51,28 @@ We'll again do a screen capture and voiceover.
 ### Additional Resources
 
 Put a link to AFF in the video description: <https://factfinder.census.gov/>.
+
+
+---
+
+## Video 3: Finding county populations
+
+### Script
+
+Welcome back to our last video! We've found that Maryland has 5.8 million people. But which counties are the biggest? From the Maryland page, click "Compare Counties for Population, Housing, Area, and Density".
+
+We'll go to a page that lists all the counties in Maryland and the population of each. Which counties are the biggest? It looks like Montgomery County is the biggest, with almost a million people. Baltimore and Prince George's County are pretty big too.
+
+Finally, let's download this data so we could do some advanced analysis. Go to the "Actions" bar and hit "Download". Then choose "Use the Data", then "Download."
+
+Congrats - we're finished the course!
+
+### Visuals
+
+Again, a screen capture and voiceover.
+
+### Additional Resources
+
+By the end of the course, users should have downloaded a file called `DEC_10_SF1_GCTPH1.ST05_with_ann.csv`. I've included the file and linked to it below
+
+<resources/DEC_10_SF1_GCTPH1.ST05_with_ann.csv>
