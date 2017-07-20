@@ -5,6 +5,9 @@
 
 This sample course will teach you how to use the Census Bureau's American FactFinder tool to gather population data for your state. You'll be able to see how many people live in your state and which counties are the biggest.
 
+## Why this course?
+
+American FactFinder is one of Census's most popular tools, and a video tutorial for new users would be very helpful.
 
 ---
 
@@ -73,6 +76,6 @@ Again, a screen capture and voiceover.
 
 ### Additional Resources
 
-By the end of the course, users should have downloaded a file called `DEC_10_SF1_GCTPH1.ST05_with_ann.csv`. I've included the file and linked to it below
+By the end of the course, users should have downloaded a file called `DEC_10_SF1_GCTPH1.ST05_with_ann.csv`. I've included the file they should get and linked to it below. Please include a link to this file in the video description so that viewers can check that they got the right data.
 
-<resources/DEC_10_SF1_GCTPH1.ST05_with_ann.csv>
+[Final CSV](resources/DEC_10_SF1_GCTPH1.ST05_with_ann.csv)
