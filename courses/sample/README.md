@@ -18,7 +18,11 @@ American FactFinder is one of Census's most popular tools, and a video tutorial 
 
 Hi and welcome to this sample course! I'm Neel from the Census Bureau.
 
-Today we'll show you how to use American FactFinder to get income data for your state. First, go to census.gov and click on "Data" in the top bar. Then click on "Data Tools and Apps", then "American FactFinder".
+Today we'll show you how to use American FactFinder to get income data for your state. First, go to census.gov and click on "Data" in the top bar.
+
+> Navigate to census.gov.
+
+Then click on "Data Tools and Apps", then "American FactFinder".
 
 Then you'll be at American FactFinder!
 
@@ -62,11 +66,19 @@ Put a link to AFF in the video description: <https://factfinder.census.gov/>.
 
 ### Script
 
-Welcome back to our last video! We've found that Maryland has 5.8 million people. But which counties are the biggest? From the Maryland page, click "Compare Counties for Population, Housing, Area, and Density".
+Welcome back to our last video! We've found that Maryland has 5.8 million people.
+
+> Highlight the Maryland population number with your mouse.
+
+But which counties are the biggest? From the Maryland page, click "Compare Counties for Population, Housing, Area, and Density".
 
 We'll go to a page that lists all the counties in Maryland and the population of each. Which counties are the biggest? It looks like Montgomery County is the biggest, with almost a million people. Baltimore and Prince George's County are pretty big too.
 
+> Hover your mouse over Montgomery County, Baltimore, and Prince George's County as you're speaking.
+
 Finally, let's download this data so we could do some advanced analysis. Go to the "Actions" bar and hit "Download". Then choose "Use the Data", then "Download."
+
+> Hit the button to download the CSV, but don't open it.
 
 Congrats - we're finished the course!
 
