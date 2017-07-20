@@ -1,4 +1,5 @@
 # Course Title
+
 > Your name and affiliation (company, agency, university, etc.)
 
 ## Summary
@@ -11,7 +12,7 @@ Want an example for what your course writeup should look like? See our [sample c
 
 Explain briefly why this course is important for Census customers.
 
----
+--------------------------------------------------------------------------------
 
 ## Video 1: Video Name
 
@@ -29,8 +30,8 @@ Explain what visuals should accompany the spoken script. The simplest visual is 
 
 Here you can link to images we can use for thumbnails, copies of your slide decks, files we should link to in the video description, or other assets that we should include with the audio/video content. We suggest putting your content in a `resources` folder.
 
----
+--------------------------------------------------------------------------------
 
 ## Video 2: Video Name
 
-> *NOTE*: each video writeup should follow the same format as the first!
+> _NOTE_: each video writeup should follow the same format as the first!

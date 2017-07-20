@@ -1,4 +1,5 @@
 # Sample Course: How to get population data for your state
+
 > By Neel Mehta, Civic Digital Fellow at the US Census Bureau
 
 ## Summary
@@ -9,8 +10,7 @@ This sample course will teach you how to use the Census Bureau's American FactFi
 
 American FactFinder is one of Census's most popular tools, and a video tutorial for new users would be very helpful.
 
----
-
+--------------------------------------------------------------------------------
 
 ## Video 1: Accessing American FactFinder
 
@@ -36,8 +36,7 @@ You can include this screenshot as a thumbnail for the video.
 
 ![Screenshot of finding American FactFinder](resources/finding-aff.png)
 
-
----
+--------------------------------------------------------------------------------
 
 ## Video 2: Finding your state
 
@@ -59,8 +58,7 @@ We'll again do a screen capture and voiceover.
 
 Put a link to AFF in the video description: <https://factfinder.census.gov/>.
 
-
----
+--------------------------------------------------------------------------------
 
 ## Video 3: Finding county populations
 
