@@ -1,93 +1,34 @@
-# Sample Course: How to get population data for your state
-> By Neel Mehta, Civic Digital Fellow at the US Census Bureau
+# Course Title
+> Your name and affiliation (company, agency, university, etc.)
 
 ## Summary
 
-This sample course will teach you how to use the Census Bureau's American FactFinder tool to gather population data for your state. You'll be able to see how many people live in your state and which counties are the biggest.
+Give a brief summary of your course and what students can expect to learn. Mention which datasets and tools you'll be using.
 
 ## Why this course?
 
-American FactFinder is one of Census's most popular tools, and a video tutorial for new users would be very helpful.
+Explain briefly why this course is important for Census customers.
 
 ---
 
-
-## Video 1: Accessing American FactFinder
+## Video 1: Video Name
 
 ### Script
 
-Hi and welcome to this sample course! I'm Neel from the Census Bureau.
+Each video should be 3-10 minutes long. In the script, write what the video narrator would be saying.
 
-Today we'll show you how to use American FactFinder to get income data for your state. First, go to census.gov and click on "Data" in the top bar.
-
-> Navigate to census.gov.
-
-Then click on "Data Tools and Apps", then "American FactFinder".
-
-Then you'll be at American FactFinder!
+> Indicate "stage directions" like this. For instance, you can indicate clicking on things (if it's not obvious from the script), opening apps or files, or displaying certain graphics.
 
 ### Visuals
 
-In this video, we'll do a screen capture with a voiceover to show people how to walk through the website.
+Explain what visuals should accompany the spoken script. The simplest visual is a screen capture with a voiceover. You can also ask for slides to be voiced over (in which case, provide links to the slides here) or ask for someone to talk in front of a green screen (in which case, specify what the background and visual aids should be.)
 
 ### Additional Resources
 
-You can include this screenshot as a thumbnail for the video.
-
-![Screenshot of finding American FactFinder](resources/finding-aff.png)
-
+Here you can link to images we can use for thumbnails, copies of your slide decks, files we should link to in the video description, or other assets that we should include with the audio/video content.
 
 ---
 
-## Video 2: Finding your state
+## Video 2: Video Name
 
-### Script
-
-Hi and welcome back! Again, we're at the American FactFinder, which you can find at factfinder.census.gov.
-
-From here, type your state name into the "Community Facts" search bar. We'll choose Maryland because the Census Bureau is located in Suitland, Maryland.
-
-Hit Go.
-
-You'll see the population of your state! In this case, Maryland's population is just under 5.8 million.
-
-### Visuals
-
-We'll again do a screen capture and voiceover.
-
-### Additional Resources
-
-Put a link to AFF in the video description: <https://factfinder.census.gov/>.
-
-
----
-
-## Video 3: Finding county populations
-
-### Script
-
-Welcome back to our last video! We've found that Maryland has 5.8 million people.
-
-> Highlight the Maryland population number with your mouse.
-
-But which counties are the biggest? From the Maryland page, click "Compare Counties for Population, Housing, Area, and Density".
-
-We'll go to a page that lists all the counties in Maryland and the population of each. Which counties are the biggest? It looks like Montgomery County is the biggest, with almost a million people. Baltimore and Prince George's County are pretty big too.
-
-> Hover your mouse over Montgomery County, Baltimore, and Prince George's County as you're speaking.
-
-Finally, let's download this data so we could do some advanced analysis. Go to the "Actions" bar and hit "Download". Then choose "Use the Data", then "Download."
-
-> Hit the button to download the CSV, but don't open it.
-
-Congrats - we're finished the course!
-
-### Visuals
-
-Again, a screen capture and voiceover.
-
-### Additional Resources
-
-By the end of the course, users should have downloaded a file called `DEC_10_SF1_GCTPH1.ST05_with_ann.csv`. I've included the file they should get and linked to it below. Please include a link to this file in the video description so that viewers can check that they got the right data.
-
-[Final CSV](resources/DEC_10_SF1_GCTPH1.ST05_with_ann.csv)
+> *NOTE*: each video writeup should follow the same format as the first!
