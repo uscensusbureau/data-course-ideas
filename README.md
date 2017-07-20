@@ -1,2 +1,9 @@
-# data-courses
-Crowdsourcing ideas for data training courses for Census Academy
+# Data course ideas for Census Academy
+
+The [US Census Bureau](https://census.gov) is launching Census Academy, a video-based training platform to teach Americans how to use Census data. As we launch, we're crowdsourcing great ideas for courses from the American people.
+
+Are you an expert in technology, demographics, geography, education, politics, data science, or any of the fields that touch Census data? We invite you to submit a course idea!
+
+## Contributing a course
+
+Have an idea for a course? Visit our contributing guide at [CONTRIUBUTING.md](CONTRIBUTING.md) to see how to get started!
