@@ -13,7 +13,7 @@ The course you propose must be made of only videos. These videos will be produce
 Have an idea? Here's how you can submit it to the Census Bureau.
 
 1. [Create a new issue](https://github.com/uscensusbureau/data-course-ideas/issues/new) (basically, a discussion thread). [Here's an example of how to fill out the issue](https://github.com/uscensusbureau/data-course-ideas/issues/1).
-2. Create a script document, following the format in [this sample script document](courses/template/README.md). Please attach the script to your issue as a .docx file (which you can create with Microsoft Word, Google Docs, or other apps) or Markdown file. **We cannot accept PDFs!**
+2. Create a script document, following the format in [this sample script document](courses/template/README.md). Please attach the script to your issue as a .docx file (which you can create with Microsoft Word, Google Docs, or other apps) or Markdown file. (We cannot accept PDFs!) Alternatively, if you prefer, you can put the script in your own GitHub repository and just give us the link to that repository.
 3. Submit the issue, and we'll start a conversation! We'll review your script and possibly suggest changes, and if your script is ready for production, we'll have our team of experts at the Census Bureau film it!
 
 Need more help? Ask Jeff Meisel at jeffrey.meisel@census.gov.
