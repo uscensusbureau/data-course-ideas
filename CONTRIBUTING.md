@@ -8,7 +8,7 @@ Anyone can submit an idea here. If your idea is approved, experts at the Census 
 
 Create an issue!
 
-https://github.com/uscensusbureau/data-course-ideas/issues/new
+[here](issues/new)
 <!--
 Want to submit an idea for a course? Here's how.
 
