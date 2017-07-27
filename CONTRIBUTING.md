@@ -4,6 +4,12 @@ The Census Bureau welcomes ideas for courses that will teach Americans how to us
 
 Anyone can submit an idea here. If your idea is approved, experts at the Census Bureau will record and produce the video and ultimately publish it on Census Academy. We'll attribute you for the idea and content, of course!
 
+## Submitting an idea
+
+Create an issue!
+
+https://github.com/uscensusbureau/data-course-ideas/issues/new
+<!--
 Want to submit an idea for a course? Here's how.
 
 1. Make a fork of this repository.
@@ -16,4 +22,4 @@ Want to submit an idea for a course? Here's how.
 
 4. Once you're happy with your writeup, submit a pull request to the original repository! We'll review it and, if it's complete and high-quality enough, we'll add it to our official list of courses for the Census Academy.
 
-Need more help? Ask Jeff Meisel at jeffrey.meisel@census.gov, or open up an issue on this repository and we'll be in touch.
+Need more help? Ask Jeff Meisel at jeffrey.meisel@census.gov, or open up an issue on this repository and we'll be in touch. -->
