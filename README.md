@@ -6,4 +6,4 @@ Are you an expert in technology, demographics, geography, education, politics, d
 
 ## Contributing a course
 
-Have an idea for a course? Visit our contributing guide at [CONTRIUBUTING.md](CONTRIBUTING.md) to see how to get started!
+Have an idea for a course that the Census should run? [Check out our contribution guide to submit your idea for a course!](CONTRIBUTING.md)
