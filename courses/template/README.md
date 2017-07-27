@@ -16,22 +16,36 @@ Explain briefly why this course is important for Census customers.
 
 ## Video 1: Video Name
 
+_Approximate video length, in minutes_
+
+### Video Description
+
+Provide a short, paragraph-long description for the video. We'll use this in the description of your video on YouTube.
+
 ### Script
 
-Each video should be 3-10 minutes long. In this script section, write what the video narrator would be saying.
+In this script section, write what the video narrator would be saying.
 
-> Indicate "stage directions" like this. For instance, you can indicate clicking on things (if it's not obvious from the script), opening apps or files, or displaying certain graphics.
+_Indicate "stage directions" in italics, like this. For instance, you can indicate clicking on things (if it's not obvious from the script), opening apps or files, or displaying certain graphics._
 
-### Visuals
+Feel free to include pictures or screenshots in the script to clarify what the narrator should be doing.
 
-Explain what visuals should accompany the spoken script. The simplest visual is a screen capture with a voiceover. You can also ask for slides to be voiced over (in which case, provide links to the slides here) or ask for someone to talk in front of a green screen (in which case, specify what the background and visual aids should be.)
+![Census logo, example photo](resources/census-logo.png)
+
+### Video Format
+
+The Census Bureau can produce videos in a variety of formats. Mention which format you would prefer, and provide any supplemental materials in this section. Options include:
+
+* **A narrator voicing over a screen capture**. That is, someone talking over a recorded laptop screen. In this case, the narrator will talk following the script and take actions on their computer based on the instructions provided in the script.
+* **A narrator talking over slides**. In this case, please attach a PowerPoint file to your GitHub issue, or link to a public Google Slides presentation here. In the script, indicate when the narrator should move to the next slide.
+* **A "talking head"**. We can record someone speaking in front of a Census-branded background, optionally with a lower third. [Here's an example](https://www.youtube.com/watch?v=dKNJpcJKYAE).
 
 ### Additional Resources
 
-Here you can link to images we can use for thumbnails, copies of your slide decks, files we should link to in the video description, or other assets that we should include with the audio/video content. We suggest putting your content in a `resources` folder.
+Here you can link to a thumbnail image you'd like us to use, datasets that might be useful when we're producing the video, a translated transcript, or other materials that may be useful.
 
 --------------------------------------------------------------------------------
 
 ## Video 2: Video Name
 
-> _NOTE_: each video writeup should follow the same format as the first!
+> Follow the format described above for every video!
