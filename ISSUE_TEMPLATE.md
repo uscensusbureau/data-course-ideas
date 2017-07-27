@@ -1,8 +1,13 @@
-## Hello, world
+> Want to submit a course idea? You've come to the right place. First, introduce yourself (replace the `...` with your own words):
 
-1. thing
-2. thing
-3. thing
+Your name: ...
+Your affiliation (company, agency, university, etc.): ...
 
+> (Want to see how this post will look? Hit the `Preview` tab above.)
+> Now, in a few sentences, describe your course:
 
-Paragraph
+...
+
+## Attachments
+
+> Please attach your script (.docx or Markdown) below me!
