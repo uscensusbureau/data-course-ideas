@@ -1,4 +1,8 @@
-> Hello! Want to submit a course idea? You've come to the right place. First, introduce yourself (replace the `...` with your own words):
+> Hello! Want to submit a course idea? You've come to the right place. [Here's an example of how to fill this out](https://github.com/uscensusbureau/data-course-ideas/issues/1).
+
+## About You
+
+> First, introduce yourself (replace the `...` with your own words):
 
 Your name: ...
 Your affiliation (company, agency, university, etc.): ...
