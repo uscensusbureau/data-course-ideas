@@ -4,22 +4,16 @@ The Census Bureau welcomes ideas for courses that will teach Americans how to us
 
 Anyone can submit an idea here. If your idea is approved, experts at the Census Bureau will record and produce the video and ultimately publish it on Census Academy. We'll attribute you for the idea and content, of course!
 
+## Requirements
+
+The course you propose must be made of only videos. These videos will be produced on YouTube, so make sure you only request features that YouTube supports. In addition, **each video must be between 1 and 15 minutes in length**, and the total length of all videos in your course must not exceed 90 minutes.
+
 ## Submitting an idea
 
-Create an issue!
+Have an idea? Here's how you can submit it to the Census Bureau.
 
-[here](issues/new)
-<!--
-Want to submit an idea for a course? Here's how.
+1. [Create a new issue](https://github.com/uscensusbureau/data-course-ideas/issues/new) (basically, a discussion thread).
+2. Create a script document, following the format in [this sample script document](courses/template/README.md). Please attach the script to your issue as a .docx file (which you can create with Microsoft Word, Google Docs, or other apps) or Markdown file. **We cannot accept PDFs!**
+3. Submit the issue, and we'll start a conversation! We'll review your script and possibly suggest changes, and if your script is ready for production, we'll have our team of experts at the Census Bureau film it!
 
-1. Make a fork of this repository.
-2. Duplicate the `courses/template/` folder and rename it to something like the name of your course (try to avoid spaces). So it could be called something like `courses/my-cool-course/`.
-3. Edit the `README.md` to include a summary of your course, as well as scripts, storyboards, and other assets your course's videos will require. The template README will give you some tips.
-
-  - This has to be written in Markdown, a lightweight syntax for simple writing. [Check out the official guide](https://guides.github.com/features/mastering-markdown/) if you need help.
-  - You need to structure your course into a series of 3-10 minute long videos.
-  - Check out our sample course at `courses/sample/` for more examples of how you would write this file.
-
-4. Once you're happy with your writeup, submit a pull request to the original repository! We'll review it and, if it's complete and high-quality enough, we'll add it to our official list of courses for the Census Academy.
-
-Need more help? Ask Jeff Meisel at jeffrey.meisel@census.gov, or open up an issue on this repository and we'll be in touch. -->
+Need more help? Ask Jeff Meisel at jeffrey.meisel@census.gov.
